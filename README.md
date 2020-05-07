@@ -7,4 +7,5 @@ Requirements:
 
 Usage
 1. Copy urls into the urlist.txt
-2. python mtr.py
+2. cmd:   
+   * python3 mtr.py
